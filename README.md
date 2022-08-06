@@ -1,6 +1,6 @@
-Mini Player de música
+## Mini Player de música
 
-<img src="https://i.imgur.com/oPxwLMM.png" alt="printscreen">
+<img src="https://i.imgur.com/y79DIou.png" alt="printscreen">
 
 ## Tecnologias:
 - HTML
