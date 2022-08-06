@@ -17,7 +17,7 @@ body {
     --bg: #000000;
     background-color: var(--bg);
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("/img/albumcover.jpg");
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("img/albumcover.jpg");
     background-color: #000000;
     background-size: 720px 720px;
     background-repeat: no-repeat;

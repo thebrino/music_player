@@ -43,4 +43,3 @@ function timeFormat(ct) {
 
     return minutes + ":" + seconds;
 }
-
