@@ -86,3 +86,39 @@ body {
     transition: all 1s linear;
     height: 100%;
 }
+
+@media (max-width: 425px) {
+    .player {
+      width: 90%;
+      text-align: center;
+    }
+  
+    body {
+      flex-direction: column;
+      background-size: 375px 375px;
+    }
+  }
+
+@media (max-width: 375px) {
+    .player {
+      width: 90%;
+      text-align: center;
+    }
+  
+    body {
+      flex-direction: column;
+      background-size: 325px 325px;
+    }
+  }
+
+@media (max-width: 320px) {
+    .player {
+      width: 90%;
+      text-align: center;
+    }
+  
+    body {
+      flex-direction: column;
+      background-size: 270px 270px;
+    }
+  }
